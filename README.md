@@ -8,6 +8,6 @@ I'm a autonomous cybersecurity student, trying reach my goals and be a professio
 
 ## Profile links
 
-**`HackTheBox`**: https://app.hackthebox.com/profile/797456
+**`HackTheBox:`** https://app.hackthebox.com/profile/797456
 
-**`TryHackMe`**: https://tryhackme.com/p/xVjVx
+**`TryHackMe:`** https://tryhackme.com/p/xVjVx
