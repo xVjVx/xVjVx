@@ -8,6 +8,6 @@ I'm a autonomous cybersecurity student, trying reach my goals and be a professio
 
 ## Profile links
 
-<img width="20" src="https://www.svgrepo.com/svg/331423/hack-the-box" /> https://app.hackthebox.com/profile/797456
+**`HackTheBox`**: https://app.hackthebox.com/profile/797456
 
- <img width="20" src="https://assets.tryhackme.com/img/logo/tryhackme_logo_full.svg" /> https://tryhackme.com/p/xVjVx
+**`TryHackMe`**: https://tryhackme.com/p/xVjVx
