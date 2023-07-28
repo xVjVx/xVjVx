@@ -6,7 +6,7 @@
 
 ## Skills
 
-I'm a autonomous cybersecurity student, trying reach my goals and be a professional in this area. I like to improve my skills in Capture the Flag challenges and reading online content. I also like to make some programming projects in Python and C languages.
+I'm a cybersecurity student, trying reach my goals and be a professional in this area. I like to improve my skills in Capture the Flag challenges, build projects and reading online content. I also like to make some programs in Python and C languages.
 
 ## Profile links
 
