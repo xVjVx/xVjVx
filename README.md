@@ -2,14 +2,8 @@
 
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<p align="center"> I'm xVjVx, cybersecurity fan and programming enjoyer</p>
+<p align="center"> I'm xVjVx, cybersecurity fan and programming student</p>
 
 ## Skills
 
-I'm a cybersecurity student, trying reach my goals and be a professional in this area. I like to improve my skills in Capture the Flag challenges, build projects and reading online content. I also like to make some programs in Python and C languages.
-
-## Profile links
-
-**`HackTheBox:`** https://app.hackthebox.com/profile/797456
-
-**`TryHackMe:`** https://tryhackme.com/p/xVjVx
+I'm a cybersecurity enjoyer and programming student, trying to complete my goals and having fun learning. I like to improve my skills in projects and reading online content. My main language is Python, but can also write some programs in C.
