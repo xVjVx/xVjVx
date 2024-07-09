@@ -6,5 +6,5 @@
 
 ## Skills
 
-🐍 Python
-🇨 C
+<p>🐍 Python </p>
+<p>🇨 C</p> 
