@@ -7,4 +7,5 @@
 ## Skills
 
 <p>🐍 Python </p>
-<p>🇨 C</p> 
+<p>☕ Java </p>
+<p>🇨 C</p>
