@@ -8,4 +8,3 @@
 
 <p>🐍 Python </p>
 <p>☕ Java </p>
-<p>🇨 C</p>
